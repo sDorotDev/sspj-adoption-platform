@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|f:\\vault sd\\sise - elementary\\c4b1 - nov23 - aplicaciones web\\appweb_ep_gamarradoroteosebastiannicolas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\views\\dashboard\\wf_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:views\\dashboard\\wf_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\views\\dashboard\\wf_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:views\\dashboard\\wf_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA90DE-6F70-425E-8407-E7F2208233E8}|AppWeb_EP_GamarraDoroteoSebastianNicolas.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-22T15:33:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:33:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WF_Dashboard.aspx.cs",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Views\\Dashboard\\WF_Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\WF_Dashboard.aspx.cs",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Views\\Dashboard\\WF_Dashboard.aspx.cs",
+              "RelativeToolTip": "Views\\Dashboard\\WF_Dashboard.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:33:10.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:33:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwv5sAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:32:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WF_Dashboard.aspx",
+              "DocumentMoniker": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Views\\Dashboard\\WF_Dashboard.aspx",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\WF_Dashboard.aspx",
+              "ToolTip": "F:\\Vault SD\\SISE - Elementary\\C4B1 - Nov23 - Aplicaciones Web\\AppWeb_EP_GamarraDoroteoSebastianNicolas\\Views\\Dashboard\\WF_Dashboard.aspx",
+              "RelativeToolTip": "Views\\Dashboard\\WF_Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-22T15:32:35.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
